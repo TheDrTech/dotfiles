@@ -1,3 +1,13 @@
+“ Lines 1-7 settings are for use with iPads
+“ Setting the color scheme
+“ colorscheme torte
+
+“ Increase font size on iOS. See :help ifont for more info. 
+“   Set font temporarily in iVim, e.g. :ifont 1 18
+“ set guifont=SourceCodePro-Regular:h19
+
+
+
 " ---
 " General Vim Settings
 " ---
