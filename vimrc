@@ -1,3 +1,9 @@
+"\ \    / (_)         |  __ \     
+" \ \  / / _ _ __ ___ | |__) |___ 
+"  \ \/ / | | '_ ` _ \|  _  // __|
+"   \  /  | | | | | | | | \ \ (__ 
+"    \/   |_|_| |_| |_|_|  \_\___|
+
 “ Lines 1-7 settings are for use with iPads
 “ Setting the color scheme
 “ colorscheme torte
