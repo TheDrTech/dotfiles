@@ -41,6 +41,9 @@ noremap <silent> <C-S> :update<CR>
 vnoremap <silent> <C-S> <C-C>:update<CR>
 inoremap <silent> <C-S> <C-O>:update<CR>
 
+" Maps leader em to be an em dash because I am tired of digraphs and use em dash often
+inoremap <leader>em <C-k>-M
+
 " Easier moving between splits
 nnoremap <C-J> <C-W><C-J>
 nnoremap <C-K> <C-W><C-K>
