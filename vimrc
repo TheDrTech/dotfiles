@@ -12,6 +12,15 @@
 “   Set font temporarily in iVim, e.g. :ifont 1 18
 “ set guifont=SourceCodePro-Regular:h19
 
+" ---
+" Environment variables
+" ---
+
+" This sets a variable to allow me to quickly edit my vimrc
+let $RC="$HOME/.vim/vimrc"
+
+" This sets a variable to allow me to quickly edit my bash_profile
+let $BP="$HOME/.bash_profile"
 
 
 " ---
