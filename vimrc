@@ -204,6 +204,7 @@ set rtp+=~/.fzf
 "---------------------------
 " This section is a list of things that I commonly
 " misspell and that I want Vim to autocorrect for me
+" or for which a text expansion would make typing efficient
 "---------------------------
 :iabbrev teh the
 :syntax keyword WordError teh
